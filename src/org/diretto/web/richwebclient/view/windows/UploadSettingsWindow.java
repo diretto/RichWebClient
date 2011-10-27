@@ -9,6 +9,7 @@ import java.util.Vector;
 import org.diretto.api.client.base.data.Contributor;
 import org.diretto.api.client.base.data.TimeRange;
 import org.diretto.api.client.base.data.TopographicPoint;
+import org.diretto.api.client.main.core.entities.Tag;
 import org.diretto.api.client.user.UserID;
 import org.diretto.web.richwebclient.view.base.client.MediaType;
 import org.diretto.web.richwebclient.view.sections.UploadSection;

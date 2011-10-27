@@ -12,6 +12,7 @@ import org.diretto.api.client.base.types.LoadType;
 import org.diretto.api.client.main.core.CoreService;
 import org.diretto.api.client.main.core.entities.Document;
 import org.diretto.api.client.main.core.entities.DocumentID;
+import org.diretto.api.client.main.core.entities.Tag;
 import org.diretto.api.client.main.core.entities.Time;
 import org.diretto.api.client.main.feed.FeedService;
 import org.diretto.api.client.main.feed.event.DocumentListener;

@@ -38,7 +38,7 @@ public final class FullScreenViewWindow extends Window
 	 * Constructs a {@link FullScreenViewWindow}.
 	 * 
 	 * @param mainWindow The corresponding {@code MainWindow}
-	 * @param caption The title
+	 * @param title The title
 	 * @param embedded An {@code Embedded} object
 	 */
 	public FullScreenViewWindow(MainWindow mainWindow, String title, Embedded embedded)
