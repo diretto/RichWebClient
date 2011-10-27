@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Vaadin-Widgetsets: org.diretto.web.richwebclient.view.widgets.MainWidgetSet

@@ -1,0 +1,39 @@
+.v-verticallayout-section .v-verticallayout-margin-left
+{
+	padding-left: 27px;
+}
+
+.v-verticallayout-section .v-verticallayout-margin-right
+{
+	padding-right: 27px;
+}
+
+.v-verticallayout-section .v-verticallayout-margin-top
+{
+	padding-top: 24px;
+}
+
+.v-verticallayout-section .v-verticallayout-margin-bottom
+{
+	padding-bottom: 27px;
+}
+
+.v-verticallayout-section .v-verticallayout .v-verticallayout-margin-left
+{
+	padding-left: 18px;
+}
+
+.v-verticallayout-section .v-verticallayout .v-verticallayout-margin-right
+{
+	padding-right: 18px;
+}
+
+.v-verticallayout-section .v-verticallayout .v-verticallayout-margin-top
+{
+	padding-top: 18px;
+}
+
+.v-verticallayout-section .v-verticallayout .v-verticallayout-margin-bottom
+{
+	padding-bottom: 18px;
+}

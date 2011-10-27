@@ -1,0 +1,7 @@
+div.v-progressindicator-indeterminate-big
+{
+	background: url("../../base/common/img/ajax-loader-big.gif");
+	width: 32px;
+	height: 32px;
+}
+

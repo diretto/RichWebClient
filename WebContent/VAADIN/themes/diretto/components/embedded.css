@@ -1,0 +1,5 @@
+.image-opacity-65 > img
+{
+	opacity:0.65;
+	filter:alpha(opacity=65);
+}

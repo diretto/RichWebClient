@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+	<xs:element name="config">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="api-base-url" type="xs:anyURI" />
+				<xs:element name="system-user">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="email-address" type="xs:string" />
+							<xs:element name="password" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="upload">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="temp-folder-path" type="xs:string" />
+							<xs:element name="max-parallel-streams" type="xs:int" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

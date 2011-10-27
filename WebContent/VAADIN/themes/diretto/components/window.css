@@ -1,0 +1,13 @@
+.v-sa .v-window-black .v-window-wrap,
+.v-ff3 .v-window-black .v-window-wrap,
+.v-op .v-window-black .v-window-wrap
+{
+	border-color: #2e3030;
+}
+
+.v-sa .v-window-black .v-window-wrap2,
+.v-ff3 .v-window-black .v-window-wrap2,
+.v-op .v-window-black .v-window-wrap2
+{
+	background-color: #1d2021;
+}

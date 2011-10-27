@@ -1,0 +1,116 @@
+.v-tabsheet-view .v-tabsheet-tabs-view
+{
+	border: 1px solid #2F3030;
+}
+
+.v-tabsheet-view .v-caption 
+{
+	cursor: default;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar 
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitemcell 
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitemcell-first 
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitem 
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-spacertd div 
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitem .v-caption 
+{
+	background-image: none;
+	background-color: #111212;
+	color: #C9CCCE;
+	text-shadow: 0 0 1px #000000;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitemcell-selected 
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitemcell-selected-first
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitem-selected 
+{
+	background-image: none;
+	background-color: #111212;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitem-selected .v-caption
+{
+	background-image: none;
+	background-color: #111212;
+	color: #C9CCCE;
+	text-shadow: 0 0 1px #000000;
+}
+
+.v-tabsheet-view .v-tabsheet-tabcontainer-bar .v-tabsheet-scroller 
+{
+	background-image: none;
+	background-color: #2F3030;
+	height: 20px;
+	margin-top: -21px;
+	border-left: 1px solid #2F3030;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-caption-close 
+{
+	color: #1B699F;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-caption-close:hover 
+{
+	background: #5e666e;
+	color: #ffffff;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-caption-close:active 
+{
+	background: #404142;
+	color: #1B699F;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitem-selected .v-tabsheet-caption-close 
+{
+	color: #1B699F;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitem-selected .v-tabsheet-caption-close:hover 
+{
+	background: #5e666e;
+	color: #ffffff;
+}
+
+.v-tabsheet-view .v-tabsheet-tabs-bar .v-tabsheet-tabitem-selected .v-tabsheet-caption-close:active 
+{
+	background: #404142;
+	color: #1B699F;
+}

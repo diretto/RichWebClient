@@ -1,0 +1,21 @@
+.label-bold
+{
+	font-weight:bold;
+}
+
+.label-italic
+{
+	font-style:italic;
+}
+
+.pointer-cursor
+{
+	cursor: pointer;
+}
+
+.outside-screen
+{
+	position: absolute; 
+	top: -1000px; 
+	left: -1000px;
+}

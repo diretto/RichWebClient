@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="config.xsd">
+
+	<api-base-url>http://api.diretto.org/v2/</api-base-url>
+
+	<system-user>
+		<email-address>system@example.org</email-address>
+		<password>system-password</password>
+	</system-user>
+
+	<upload>
+		<temp-folder-path>/tmp/</temp-folder-path>
+		<max-parallel-streams>2</max-parallel-streams>
+	</upload>
+
+</config>
